@@ -1,0 +1,76 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0.8)),url(https://imgcacheblog.instube.com/2020/06/Forensic-full-movie-Malayalam.jpg);
+    background-position: top;
+    background-size:cover;
+}
+.header{
+    height: 10%;
+}
+.header-btn{
+    text-decoration: none;
+    border-radius: 30px;
+    padding: 7px 20px;
+    float: right;
+    margin-top: 15px;
+    color: white;
+    background: #107afd;
+    font-weight: 600;
+    
+
+}
+.movie-details{
+    margin: 3% 0;
+
+}
+.left-box{
+    color: white;
+    margin: 15px 0;
+    padding: 20px;
+}
+.casting img{
+    height: 150px;
+    width: 150px;
+    margin-right: 20px;
+    cursor: pointer;
+
+}
+.left-box a{
+    text-decoration: none !important;
+    border-radius: 30px;
+    padding: 7px 14px;
+    
+    margin-top: 35px;
+    color: white;
+    background: #107afd;
+    
+    font-weight: 600;
+    display: inline-block;
+    margin-right: 10px;
+    
+}
+.movie-img{
+    height:350px;
+    box-shadow: -4px 4px 5px 0 #000;
+
+}
+.review{
+    color: white;
+}
+.casting{
+    position: absolute;
+    left: 35em;
+    top: 3em;
+    size: 13em;
+}
+.review-text{
+    word-spacing: 3px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-top: 15px;
+}
+
+
